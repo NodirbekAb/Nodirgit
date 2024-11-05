@@ -1,2 +1,0 @@
-# Nodirgit
-Nodirgit
